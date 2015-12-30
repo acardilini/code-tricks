@@ -3,6 +3,7 @@
 * emmet
 * advanced-open-file
 * build
+* script
 
 ###
 Emmet cheat sheet http://docs.emmet.io/cheat-sheet/ 
