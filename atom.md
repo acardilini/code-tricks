@@ -2,6 +2,7 @@
 * autoclose-html
 * emmet
 * advanced-open-file
+* build
 
 ###
 Emmet cheat sheet http://docs.emmet.io/cheat-sheet/ 
